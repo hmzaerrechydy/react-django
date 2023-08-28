@@ -1,5 +1,5 @@
 {
-  "name": "react-django",
+  "name": "django-react",
   "version": "1.0.0",
   "description": "an npm package to integrate react in a Django project with one command.",
   "main": "index.js",
@@ -8,6 +8,5 @@
     "postinstall": "node index.js"
   },
   "author": "Hamza Errechydy",
-  "license": "ISC", 
-  "homepage": "https://github.com/hmzaerrechydy/react-django"
+  "license": "ISC"
 }
