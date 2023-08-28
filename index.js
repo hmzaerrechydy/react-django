@@ -4,8 +4,4 @@ function exec(cmd)
     return childfork.exec(cmd);
 }
 
-function makeFrontEnd(){
-    return exec('cd ../.. && django-admin startapp frontend')
-}
-
-makeFrontEnd()
+exec('mv frontend ../..')
