@@ -23,7 +23,7 @@ urlpatterns = [
     path('', include('frontend.urls'))
 ]
 ```
-3.Finally don't forget to run webpack, in the terminal go to the folder frontend, and run the following command: 
+3. Finally don't forget to run webpack, in the terminal go to the folder frontend, and run the following command: 
 ```
 npm run dev
 ```
