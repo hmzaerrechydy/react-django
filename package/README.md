@@ -1,7 +1,7 @@
 # react-plus-django
 An npm package to integrate react in a Django project with one command.
 
-**Link**: https://www.npmjs.com/package/react-plus-django
+**GitHub**: https://github.com/hmzaerrechydy/react-plus-django
 
 ## Install 
 In the terminal go to your Django project directory and type: 
