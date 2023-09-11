@@ -1,4 +1,4 @@
-# react-django
+# react-plus-django
 An npm package to integrate react in a Django project with one command.
 
 **Link**: https://www.npmjs.com/package/react-plus-django
