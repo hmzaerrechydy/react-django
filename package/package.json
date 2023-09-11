@@ -8,5 +8,6 @@
     "postinstall": "node index.js"
   },
   "author": "Hamza Errechydy",
-  "license": "ISC"
+  "license": "ISC", 
+  "keywords": ["Python", "JavaScript", "React"]
 }
