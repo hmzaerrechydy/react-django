@@ -1,5 +1,5 @@
 {
-  "name": "react-django",
+  "name": "react-plus-django",
   "version": "1.0.0",
   "description": "an npm package to integrate react in a Django project with one command.",
   "main": "index.js",
